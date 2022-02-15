@@ -15,7 +15,7 @@ npm install express mysql body-parser
 ```
 import above sql file in phpmyadmin
 ```
-### 4. Deploy project
+### 5. Deploy project
 ```
 node index.js
 ```
